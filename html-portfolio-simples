@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Portfólio - Luiz Otávio</title>
+</head>
+<body>
+    <h1>Olá! Sou Luiz Otávio</h1>
+    <p>Desenvolvedor em formação, com foco em Python e HTML.</p>
+
+    <h2>Projetos</h2>
+    <ul>
+        <li>Sistema de Cadastro em Python</li>
+        <li>Interface Gráfica com Tkinter</li>
+        <li>Projeto Estruturado (POO)</li>
+    </ul>
+
+    <p>Contato: luiz.otaviobarbosa10@gmail.com</p>
+</body>
+</html>
